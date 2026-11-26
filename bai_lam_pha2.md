@@ -1,10 +1,10 @@
 # BÀI LÀM PHA 2 – HACKATHON 02
 
 - **Mã đề:** 08
-- **Họ tên:**
-- **Lớp:**
-- **Link repository Pha2:**
-- **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):**
+- **Họ tên:**Nguyễn Trung Thành
+- **Lớp:**CNNTT-3
+- **Link repository Pha2:**https://github.com/chup62/HN-KS26-CNTT3_PPromptAI_H02
+- **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):**GEMINI
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
 
